@@ -105,30 +105,24 @@ UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
 Description=Desarrollo
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
-Variation1=Designator=J115|UniqueId=\YKNPOYOA|Kind=1|AlternatePart=
-Variation2=Designator=J114|UniqueId=\HPOPNEMC|Kind=1|AlternatePart=
-Variation3=Designator=IC100|UniqueId=\INAZKOLS|Kind=1|AlternatePart=
-Variation4=Designator=F100|UniqueId=\IEVBRWOA|Kind=1|AlternatePart=
-Variation5=Designator=J110|UniqueId=\OBMVHRSP|Kind=1|AlternatePart=
-Variation6=Designator=J111|UniqueId=\ZCLRCRZF|Kind=1|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Revision
-Value=0.0
+Name=Author
+Value=eUSRacing
 
 [Parameter2]
-Name=Project
-Value=ECU
-
-[Parameter3]
 Name=Date
 Value=07/06/2026
 
+[Parameter3]
+Name=Project
+Value=ECU
+
 [Parameter4]
-Name=Author
-Value=eUSRacing
+Name=Revision
+Value=0.0
 
 [DiffPairSuffix1]
 Positive=_H
@@ -1369,7 +1363,7 @@ Net19=NetName=A1_12V_RLS_Line|NetColor=clRed
 Net20=NetName=A1_3V3|NetColor=clRed
 Net21=NetName=A1_5V|NetColor=clRed
 Net22=NetName=BATT|NetColor=$001D7638
-Net23=NetName=GND|NetColor=$00434343
+Net23=NetName=GND|NetColor=clBlack
 Net24=NetName=HeaterSupply|NetColor=$00065FB4
 Net25=NetName=SYS|NetColor=clYellow
 Net26=NetName=VBUS|NetColor=clBlack
