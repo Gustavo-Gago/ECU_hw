@@ -101,23 +101,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JSNKNXIJ
 
 [Document4]
-DocumentPath=..\..\LIB\eUSR_Database.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=SCH\Digital_IN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZPKQLMUX
 
-[Document6]
+[Document5]
 DocumentPath=SCH\Digital_OUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUOPUSWL
 
-[Document7]
+[Document6]
 DocumentPath=SCH\CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

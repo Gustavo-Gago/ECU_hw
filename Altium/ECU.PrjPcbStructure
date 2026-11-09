@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=Master.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Digital_IN.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Digital_OUT.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Master.SchDoc|SheetNumber=1
